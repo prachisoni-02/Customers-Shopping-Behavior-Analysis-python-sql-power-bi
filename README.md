@@ -1,4 +1,4 @@
-​# 🛒 Customer shopping Behavior Analysis
+​#🛒 Customer shopping Behavior Analysis
 
 ​📌 Project Overview
 ​In the modern retail sector, understanding consumer psychology is the key to sustainable growth. This project demonstrates a complete, industry-standard data analytics workflow. I have transformed raw, unstructured shopping data into a strategic business asset by building a seamless pipeline from Data Engineering (Python) and Data Modeling (SQL) to Visual Storytelling (Power BI).
